@@ -28,3 +28,6 @@ Two parameters that can improve the performance and increase the `processedRowsP
 - `spark.sql.shuffle.partitions` (Configures the number of partitions to use when shuffling data for joins or aggregations)
 
 By reducing the number of partitions (e.g., to 100) the performance increased. As mentioned in [a blog post](http://blog.madhukaraphatak.com/dynamic-spark-shuffle-partitions/), there is no one size fits all, and it could also be dinamically assignated. 
+
+## Screen shots
+Available in **/screen shots** folder
